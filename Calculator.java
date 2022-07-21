@@ -1,5 +1,6 @@
 public class Calculator {
-    public static void mainI(String[] args){
+    public int addition(int a, int b){
+        return a + b;
 
     }
 
